@@ -291,6 +291,7 @@
 }
 .list-product .list ul li.addBackground {
     background-color: var(--main-color);
+    color: #fff;
 }
 .list-product .box .image img {
     width: 100%;
